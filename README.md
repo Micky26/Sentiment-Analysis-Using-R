@@ -3,7 +3,7 @@ Sentiment Analysis of tweets for any Twitter Handles
 consumer_key <- 'xxxxx'
 consumer_secret <- 'xxxxxx'
 access_token <- 'xxxxxx'
-access_secret <- 'AbwRUOwDk3LrNGknP844oVKg9qqpHGFqWe40ygIvPl01h'
+access_secret <- 'xxxxxx'
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 options(httr_oauth_cache = T)
 tweets <- userTimeline("@MBuhari", n = 3000)
