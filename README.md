@@ -1,8 +1,8 @@
 # Sentiment-Analysis-Using-R
 Sentiment Analysis of tweets for any Twitter Handles
-consumer_key <- 'SQ9WtMx8TVUPUj3psmldZMnsW'
-consumer_secret <- 'ItAzvMjFBn7pMY3aE2cB9U4ipqJ8UReBOfwalP2djz5obs2xkq'
-access_token <- '145425446-v2c0BW6sQKFKlIso303IkvuRAPkJjlglQEhG3mQl'
+consumer_key <- 'xxxxx'
+consumer_secret <- 'xxxxxx'
+access_token <- 'xxxxxx'
 access_secret <- 'AbwRUOwDk3LrNGknP844oVKg9qqpHGFqWe40ygIvPl01h'
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 options(httr_oauth_cache = T)
